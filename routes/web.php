@@ -10,4 +10,6 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::get('/{any}', 'HomeController@index')->where('any', '.*');
+Route::get('/', 'HomeController@index');
+
+Route::get('/{any}', 'HomeController@index');

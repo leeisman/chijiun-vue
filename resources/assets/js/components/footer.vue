@@ -118,7 +118,7 @@
   text-align: center;
   width: 80px;
   font-size: 10px;
-  background: url("/image/youtube-sociocon.png");
+  background: url("/images/youtube-sociocon.png");
   background-size: 100%;
 }
 
