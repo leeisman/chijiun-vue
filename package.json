@@ -17,11 +17,11 @@
         "jquery": "^3.2",
         "laravel-mix": "^2.0",
         "lodash": "^4.17.4",
-        "vue": "^2.5.7",
-        "vuex": "^2.6.1"
+        "vue": "^2.5.7"
     },
     "dependencies": {
         "vue-flickity": "^1.1.2",
-        "vue-router": "^3.0.1"
+        "vue-router": "^3.0.1",
+        "vuex": "^3.0.1"
     }
 }
